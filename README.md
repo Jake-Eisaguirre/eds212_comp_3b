@@ -1,2 +1,2 @@
-# eds212_comp_3b
+# EDS 212 Compuational Session 3B - Making vectors in R and Python
 Project to practice making and working with vectors in R &amp; Python
